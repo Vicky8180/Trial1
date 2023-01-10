@@ -1,0 +1,63 @@
+.A1{
+    height: 200px;
+    width: 100%;
+    background-color: powderblue;
+}
+.A2{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(75, 14, 230);
+}
+
+.A3{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(33, 242, 37);
+}
+.A4{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(255, 0, 132);
+}
+.A5{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(5, 223, 243);
+}
+.A6{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(129, 224, 28);
+}
+
+.A1:hover{
+	background:#ff7605;
+}
+
+.A2:hover{
+	background:#cdf70f;
+}
+
+.A3:hover{
+	background:#a2e409;
+}
+
+.A4:hover{
+	background:#215425;
+}
+
+.A22{
+
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+   -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+ 
+   
+}
+
+.A22:hover{
+	background:#215425;
+}
